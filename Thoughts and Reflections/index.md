@@ -9,3 +9,8 @@
 ## How I prepare for exam
 1. look at previous hw, see where I don't understand fully, or don't remeber clearly
 1. look at slides, take more notes
+
+## Put them in your cheatsheet
+1. body effect
+1. Miller's theorem
+1.  
